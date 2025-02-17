@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=silbull&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true)
+![](https://github-readme-stats.vercel.app/api?username=silbull&show_icons=true&theme=tokyonight&hide=stars,_border=true&hide_rank=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=silbull&hide=jupyter%20notebook,assembly,html&layout=compact&theme=tokyonight&hide_border=true)
