@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](	https://img.shields.io/badge/HomePage-111275?style=for-the-badge&logo=vercel&logoColor=white)](https://silbull-github-io.vercel.app/)
+[![](	https://img.shields.io/badge/HomePage-111275?style=for-the-badge&logo=vercel&logoColor=white)](https://miyawakitomoya.com/)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=silbull&show_icons=true&theme=tokyonight&hide=stars&hide_border=true&hide_rank=true)
